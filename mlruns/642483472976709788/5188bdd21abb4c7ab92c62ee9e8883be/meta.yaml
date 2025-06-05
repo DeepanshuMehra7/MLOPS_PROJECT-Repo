@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DEEPANSHU/Desktop/MLOPS_PROJECT/mlruns/642483472976709788/5188bdd21abb4c7ab92c62ee9e8883be/artifacts
+end_time: 1749108448049
+entry_point_name: ''
+experiment_id: '642483472976709788'
+lifecycle_stage: active
+run_id: 5188bdd21abb4c7ab92c62ee9e8883be
+run_name: RandomForest
+run_uuid: 5188bdd21abb4c7ab92c62ee9e8883be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749108436223
+status: 3
+tags: []
+user_id: DEEPANSHU
